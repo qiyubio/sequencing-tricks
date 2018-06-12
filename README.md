@@ -8,3 +8,7 @@ bar_code_filter.py
 
 download_sample_and_alignment_PE.py
 ----------------------------------------------------------------------------------------------------------------------------
+#This is a basic filter of vcf files. You have to install vcftools, bcftools and vcffilter first.
+
+vcf_filter.sh
+----------------------------------------------------------------------------------------------------------------------------
